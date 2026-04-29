@@ -29,7 +29,7 @@ You want MCP access to a desktop app and discover it already has `app.asar.unpac
 
 ## Reference implementations
 
-- [`hermes-pen-bridge`](https://github.com/<your-handle>/hermes-pen-bridge) — proxy + 7 custom tools for Pencil's `.pen` files
+- [`hermes-pen-bridge`](https://github.com/devvgwardo/hermes-pen-bridge) — proxy + 7 custom tools for Pencil's `.pen` files
 
 ## License
 
